@@ -12,7 +12,7 @@ from youtubesearchpython import VideosSearch, SearchVideos
 
 import os
 
-openai.api_key = "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"
+openai.api_key = "your api key"
 
 
 def generate_response(user_input):

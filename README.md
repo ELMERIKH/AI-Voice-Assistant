@@ -1,10 +1,16 @@
 # AI-Voice-Assistant
+a graphical voice assistant with python that uses GPT 3.5
 
 put your OPENAI api key in the main.py
-a graphical voice assistant with python that uses GPT 3.5
-start your sentences with comands
+
+
+
+start your sentences with commands
+
 vocie commands:
+
 play =plays a youtube video
+
 stop= pause the video
 
 --------------

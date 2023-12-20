@@ -5,7 +5,7 @@ put your OPENAI api key in the main.py
 
 
 
-start your sentences with commands
+for extra features start your sentences with commands
 
 vocie commands:
 

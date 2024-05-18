@@ -3,6 +3,8 @@ a graphical voice assistant with python that uses GPT 3.5
 
 python GUI.py
 
+and yes it s drag and drop ;)
+
 for extra features start your sentences with commands
 
 start commands with 'hey' and wait for bot to respond back then give commands

@@ -18,3 +18,7 @@ can add more commands in future
 
 
 ![2023-04-05 22_44_37-Beryl](https://user-images.githubusercontent.com/96123439/230227361-04d52a24-7f3e-407e-a326-407d26028abf.png)
+
+![2024-05-18 15_17_20-GUI py - Ai-Beryl - Visual Studio Code](https://github.com/ELMERIKH/AI-Voice-Assistant/assets/96123439/7a31f3d9-999d-4e26-b51f-30831e333b7c)
+
+![2024-05-18 15_19_11-](https://github.com/ELMERIKH/AI-Voice-Assistant/assets/96123439/59b4573d-28de-41bc-b192-9d17092e43fe)
